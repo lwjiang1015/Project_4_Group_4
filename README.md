@@ -1,13 +1,9 @@
 # Project_4_Group_4
 
-## RealEstatePred Modelling
-
-## Purpose / Aim
-
-Build a regression model to predict real estate sale amount (United States)
+## Credit Card Eligibility Prediction Modelling
 
 ## Overview and Purpose
- This project aims to generate a well-performing predicting tool to predict selling prices of real estates given the historical real estate sales data. More specifically, we use the machine learning (ML), such as random forest modelling and neural network modelling, along with other techbologies such as Python Pandas in an attempt to generate a model to better predict the future selling prices of real estates. The model generated may be of valuable to people who purchase or sell real estates, for financial institutions who provide finance for purchases, and/or for other like-minded people who would like to exchange knowledge. The data used to generate the model, however, is from the real estate sales in the State of Connecticut in the United States, adjustments are therefore warranted when using the model to predict the selling prices using the data elsewhere. 
+ This project aims to generate a well-performing predicting tool to predict the eligibility for a credit card given the historical assessment data. More specifically, we use the machine learning (ML) modelling tools, such as random forest modelling and neural network modelling, along with other techbologies such as Python Pandas in an attempt to generate a model to assess the eligibility for a credit card more accurately. The model generated may be of valuable to people who apply for a credit card to prepare in advance, for financial institutions who has not got their own modelling to assist with assessing the eligibility, and/or for other like-minded people who would like to exchange knowledge. 
 
 ### Group Members
 -    Olivia Yu
@@ -18,7 +14,7 @@ Build a regression model to predict real estate sale amount (United States)
 -   `Project4Group4_colab.ipynb`: Jupyter Notebook containing the codings and providing the visualisations.
 -   `Images`: Folder containing screenshots of:
     -   `retrieving the data from Spark`: retrieving the data from S3 bucket.
-    -   `data cleaning`: data cleaning process such as dropping null data points and unused columns.
+    -   `data cleaning`: data cleaning process such as checking outliers if any.
     -   `data normalising and standardisation`: the coding for the process.
     -   `model initialisation and training`: the coding for initialising and training the model.
     -   `model evaluation`: the coding and results for the model evaluation.
@@ -26,7 +22,7 @@ Build a regression model to predict real estate sale amount (United States)
     -   `model optimisation 2`: the coding and the displayed results for model performance from model optimisation.
 
 ## How to Use
-To use RealEstatePred Modelling, follow these steps:
+To use Credit Card Eligibility Prediction Modelling, follow these steps:
 1. Copy and clone the respository or download the `Project4Group4_colab.ipynb` file.
 2. Sign up or log in to Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb
 3. Run the codes. 
@@ -35,9 +31,9 @@ To use RealEstatePred Modelling, follow these steps:
 
 ## Data Source
 
-* Real Estate Saels 2001-2021 GL. Retrieved from ["https://catalog.data.gov/dataset/real-estate-sales-2001-2018>"]
+* Credit Card Eligibility Data: Determining Factors. Retrieved from ["https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors"]
 
--- Note: please respect the data licensing agreements by crediting the DATA.GOV as the data source when using this model. While the data is publicly available and no permission is needed when using the data, proper attribution is requested. The suggested citation for using this data is as above.
+-- Note: please respect the data licensing agreements by crediting the Kaggle as the data source when using this model. While the data is publicly available and no permission is needed when using the data, the citation for using this data is suggested as above.
 
 
 ### References
