@@ -25,7 +25,12 @@
 To use Credit Card Eligibility Prediction Modelling, follow these steps:
 1. Copy and clone the respository or download the `Project4Group4_colab.ipynb` file.
 2. Sign up or log in to Google Colab: https://colab.research.google.com/notebooks/welcome.ipynb
-3. Run the codes. 
+3. Run the codes.
+
+### Important Note
+
+The file returned promising numbers; however, it is important to note that the values in the DataFrame do not correspond to current market conditions. While the data is correct, it should be emphasized that this analysis is based on synthetic data. The synthetic data was generated for the purpose of this project and does not reflect real-world market data.
+
 
 ## References
 
