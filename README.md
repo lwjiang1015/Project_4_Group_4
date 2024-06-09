@@ -29,7 +29,7 @@ To use Credit Card Eligibility Prediction Modelling, follow these steps:
 
 ### Important Note
 
-The file returned promising numbers; however, it is important to note that the values in the DataFrame do not correspond to current market conditions. While the data is correct, it should be emphasized that this analysis is based on synthetic data. The synthetic data was generated for the purpose of this project and does not reflect real-world market data.
+While the data used in this analysis presents promising results, it's important to note that the values within the DataFrame do not reflect current market conditions. Although the dataset has been cleaned up, with preprocessing steps applied to ensure data integrity, the exact origin or collection method of the dataset remains uncertain. This analysis serves the purpose of demonstrating the application of various models and evaluating their performance using available data. By providing transparency about the dataset's limitations and the purpose of the analysis, we aim to offer readers a clear understanding of the context and scope of this project.
 
 
 ## References
