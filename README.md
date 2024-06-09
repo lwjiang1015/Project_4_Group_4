@@ -3,7 +3,7 @@
 ## Credit Card Eligibility Prediction Modelling
 
 ## Overview and Purpose
- This project aims to generate a well-performing predicting tool to predict the eligibility for a credit card given the historical assessment data. More specifically, we use the machine learning (ML) modelling tools, such as random forest modelling and neural network modelling, along with other techbologies such as Python Pandas in an attempt to generate a model to assess the eligibility for a credit card more accurately. The model generated may be of valuable to people who apply for a credit card to prepare in advance, for financial institutions who has not got their own modelling to assist with assessing the eligibility, and/or for other like-minded people who would like to exchange knowledge. 
+ This project aims to generate a well-performing predicting tool to predict the eligibility for a credit card given the historical assessment data. More specifically, we used machine learning (ML) modelling tools, such as random forest modelling and neural network modelling, along with other modules such as Python Pandas in an attempt to generate a model to assess the eligibility for a credit card more accurately. The model generated may be of valuable to people who apply for a credit card to prepare in advance, for financial institutions who has not got their own modelling to assist with assessing the eligibility, and/or for other like-minded people who would like to exchange knowledge. 
 
 ### Group Members
 -    Olivia Yu
@@ -35,8 +35,9 @@ While the data used in this analysis presents promising results, it's important 
 ## References
 
 ## Data Source
+  - **Source**: Retrieved from https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors
+  - **Storage**: The data is stored in an AWS S3 Bucket for ease of use.
 
-* Credit Card Eligibility Data: Determining Factors. Retrieved from ["https://www.kaggle.com/datasets/rohit265/credit-card-eligibility-data-determining-factors"]
 
 -- Note: please respect the data licensing agreements by crediting the Kaggle as the data source when using this model. While the data is publicly available and no permission is needed when using the data, the citation for using this data is suggested as above.
 
